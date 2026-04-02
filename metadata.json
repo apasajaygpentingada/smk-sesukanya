@@ -1,0 +1,5 @@
+{
+  "name": "Absensi SMK Prima Unggul",
+  "description": "Aplikasi absensi siswa dan karyawan untuk SMK Prima Unggul dengan fitur manajemen user dan rekapitulasi data.",
+  "requestFramePermissions": []
+}
